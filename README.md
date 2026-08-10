@@ -47,6 +47,8 @@ This portfolio highlights my journey in creating modern, responsive, and user-fr
 - ReelAI Movie Recommendation System
 - Smart Attendance System
 - E-Commerce Website
+- Document Q&A Bot
+- AI-Based lip reading system using webcam
 
 ---
 
