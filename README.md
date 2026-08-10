@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This portfolio showcases my projects, skills, certifications, and experience in web development and AI-based applications.
 
-🔗 **Live Portfolio:** https://varsh-portfolio-nu.vercel.app
+🔗 **Live Portfolio:** https://varsh-portfolio-dzva.vercel.app
 
 ---
 
