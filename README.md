@@ -54,13 +54,7 @@ This portfolio highlights my journey in creating modern, responsive, and user-fr
 
 - 📧 Email: **varshinisubramani005@gmail.com**
 - 💼 LinkedIn: **www.linkedin.com/in/varshini-subramani**
-- 🐙 GitHub: **github.com/varsh005**
-
----
-
-## 🌟 Inspiration
-
-> while(alive) { improve(); }
+- 🐙 GitHub: **https://github.com/varsh005**
 
 ---
 
