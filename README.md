@@ -1,16 +1,69 @@
-# React + Vite
+# 🌐 Varshini | Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! This portfolio showcases my projects, skills, certifications, and experience in web development and AI-based applications.
 
-Currently, two official plugins are available:
+🔗 **Live Portfolio:** https://varsh-portfolio-nu.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ About
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I’m a passionate **Developer | Building Web Applications | AI & ML Enthusiast**.
 
-## Expanding the ESLint configuration
+This portfolio highlights my journey in creating modern, responsive, and user-friendly web applications while exploring AI-powered solutions and continuously improving my development skills.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Features
+
+- Responsive and modern UI
+- Smooth scrolling and clean navigation
+- Skills section with technologies and tools
+- Featured projects with live demos and source code
+- Experience and certifications
+- Contact section for collaborations and opportunities
+
+---
+
+## 🛠️ Built With
+
+### Frontend
+- React
+- Vite
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+
+### Tools
+- Git
+- GitHub
+- Vercel
+
+---
+
+## 📂 Featured Projects
+
+- AI Resume Analyzer
+- ReelAI Movie Recommendation System
+- Smart Attendance System
+- E-Commerce Website
+
+---
+
+## 📬 Contact
+
+- 📧 Email: **varshinisubramani005@gmail.com**
+- 💼 LinkedIn: **www.linkedin.com/in/varshini-subramani**
+- 🐙 GitHub: **github.com/varsh005**
+
+---
+
+## 🌟 Inspiration
+
+> while(alive) { improve(); }
+
+---
+
+## 📄 License
+
+This project is open source and available under the **MIT License**.
